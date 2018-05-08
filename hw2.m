@@ -12,3 +12,5 @@ Total = symsum(1/k, k, 1, n)
 
 digits(5);
 Total1=vpa(Total)   %series is divergent
+
+%adding new line
